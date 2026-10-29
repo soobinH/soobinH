@@ -1,15 +1,13 @@
 # Hi, I'm Soobin 👋
 
 B2B 서비스를 기획부터 배포까지 직접 만드는 풀스택 개발자입니다.
-단 2인으로 AI 플랫폼 전체 파이프라인을 구축하고,
-1인 단독 개발로 3,000만 원 매출을 만든 경험이 있습니다.
 
 ## 🚀 Projects
 > 💡 실무 프로젝트 대부분은 회사 private 레포에서 진행되었습니다.
 - **[FraudGuard](https://github.com/soobinH/FraudGuard)** 
   — LLM 기반 스캠 탐지 챗봇 | 🏆 2025 글로벌 해커톤 대상
 - **SNOOP** — 뷰티·공간 B2B AI 시안 생성 플랫폼 (비공개)
-- **Smart Belly** — 딸기 농가 스마트팜 ERP, 단독 개발 3,000만원 매출 (비공개)
+- **Smart Belly** — 딸기 농가 스마트팜 ERP, 단독 개발
 
 <br/>
 
